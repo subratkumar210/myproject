@@ -1,2 +1,2 @@
 # myproject
-coutrsera project
+coursera project
